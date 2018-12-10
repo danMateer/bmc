@@ -17,7 +17,6 @@ module.exports = [
     ["Ensure `Math.random()` isn't used for generating secure tokens", ""],
     ["Scan for `console.log()` or `print` instances left over from debugging", ""],
     ["Remove any commented code - or add a message explaining why it's there", ""],
-    ["Scan for `console.log()` or `print` instances left over from debugging", ""],
     ["Look for important credentials and/or secret keys accidentally placed in shared repositories", ""],
     ["Make sure any pages responsible for sensitive data transfer aren't served over HTTP", ""],
     ["Remove duplicate ids from any passworded or payment forms", ""],
