@@ -754,7 +754,7 @@ GEM
       jwt (>= 1.5, <= 2.5)
       nokogiri (>= 1.6, < 2.0)
     twitter (6.2.0)
-      addressable (~> 2.3)
+      addressable (~> 3.3)
       buftok (~> 0.2.0)
       equalizer (~> 0.0.11)
       http (~> 3.0)
